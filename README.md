@@ -2,7 +2,7 @@
 
 ### Game Developer & Programmer
 
-I'm a developer focused on **game development, programming and interactive experiences**.
+I'm an academic and software developer focused on **game development, programming and interactive experiences**.
 
 I build games using **C#, Unity, Python and Clickteam Fusion**, with experience taking projects from development through to playable **Windows and Android releases**.
 
