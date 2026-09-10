@@ -1,6 +1,6 @@
 # Hi, I'm Shaif Hemraj 👋
 
-### Game Developer & Programmer
+### Game Developer & Academic
 
 I'm an academic and software developer focused on **game development, programming and interactive experiences**.
 
